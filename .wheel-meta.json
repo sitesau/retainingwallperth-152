@@ -1,0 +1,22 @@
+{
+  "wheel_id": 490,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-152",
+  "project": "retaining-wall-builders-perth-0141d44226d945f2ba4a7796b76890e2b",
+  "parent_t1_ref": "retainingwallperth-006",
+  "node_role": "buffer",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining wall builders perth",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-perth-0141d44226d945f2ba4a7796b76890e2b/",
+  "tier": "T2",
+  "writeback_nonce": "b722d9a32b454919",
+  "links": [
+    {
+      "target_url": "https://retaining-wall-builders-perth-retainingwallperth-006-2e3e7b.gitlab.io/",
+      "anchor": "https://retaining-wall-builders-perth-retainingwallperth-006-2e3e7b.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
